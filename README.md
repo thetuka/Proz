@@ -22,12 +22,13 @@ Amo desenhos, motos, animais e Rock'n'Roll 🎨 🏍️ :octocat: 🤘
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thetuka&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
-## Habilidades (Ainda em construção) :construction:
+## :construction: Habilidades (Ainda em construção) :construction:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-	![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## GitHub  Streak Stats 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=thetuka&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
