@@ -1,0 +1,29 @@
+div{
+    color: red;
+    background-color: rgb(239, 243, 243);
+    padding: 8px;
+    font-family: cursive;
+}
+
+h1{
+    color: brown;
+}
+
+p{
+    color: blueviolet;
+}
+
+.caixa{
+    background-blend-mode: color-burn;
+    font-weight: bolder;
+}
+
+body{
+    color-scheme: blue;
+}
+
+#ultima-caix{
+    padding: 16px;
+    padding-top: 6px;
+}
+
