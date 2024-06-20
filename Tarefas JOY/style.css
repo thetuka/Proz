@@ -29,3 +29,8 @@ footer {
     display: block;
     margin: 0 auto;
 }
+
+section {
+    display: flex;
+    justify-content: center;
+}
